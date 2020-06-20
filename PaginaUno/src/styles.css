@@ -1,0 +1,7 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body{
+	background: #e9ebee;
+	width: 100%;
+	margin: 0px !important;
+}

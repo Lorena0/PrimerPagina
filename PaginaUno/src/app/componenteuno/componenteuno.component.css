@@ -1,0 +1,104 @@
+:host{
+	background: #e9ebee;
+	width: 100%;
+	margin: 0px !important;
+}
+
+.contenedor{
+	width: 100%;
+}
+
+.up{
+	background: #29487d;
+	width: 100%;
+	height: 82px;
+}
+
+.contenedor-body{
+	width: 100%;
+	display: flex;
+	flex-flow: row;
+}
+
+.espacio1{
+	width: 55%;
+}
+
+.formulario{
+	/*background: orange;*/
+	width: 30%;
+}
+
+.espacio2{
+	width: 15%;
+}
+
+.titulo{
+	margin-top: 20px;
+	font-size: 36px;
+	color: #333;
+	font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+}
+
+.titulo:hover{
+	color: rgb(10, 80, 161);
+}
+
+.subtitulo{
+	font-size: 19px;
+    line-height: 126%;
+    margin-bottom: 20px;
+	color: #333;
+	font-family: 'Freight Sans', Helvetica, Arial, sans-serif !important;
+    font-weight: normal !important;
+    letter-spacing: normal;
+}
+
+.cajas{
+	/*background: orange;*/
+	width: 400px;
+}
+
+.cajas-medias{
+	width: 100%;
+	display: flex;
+	flex-flow: row;
+}
+
+.separacion{
+	width: 15px;
+}
+
+.medio{
+	width: 186px;
+	margin-bottom: 10px;
+}
+
+.largo{
+	width: 97%;
+	margin-bottom: 10px;
+}
+
+.btn-registrarse{
+	font-size: 19px;
+	font-weight: bold;
+	line-height: 126%;
+	min-width: 194px;
+	padding: 7px 20px;
+	text-align: center;
+	background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+	border-color: #3b6e22 #3b6e22 #2c5115;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-registrarse:hover{
+	background: linear-gradient(#55a4ae, #436988);
+    background-color: #1d5dbe;
+    box-shadow: inset 0 1px 1px #a4e388;
+	border-color: #000000 #3b6e22 #2c5115;
+}
